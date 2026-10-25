@@ -1,0 +1,6 @@
+{
+  "name": "The Importance of Writing Every Day - ESL Lesson",
+  "description": "Interactive ESL Reading & Writing lesson for intermediate B1 students exploring daily writing habits, vocabulary, text analysis, and guided paragraph composition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
